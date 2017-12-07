@@ -1,0 +1,3 @@
+
+[zimbra@email ~]$zmmailbox -z -m user20@domain.com emptyFolder /Inbox
+[zimbra@email ~]$ zmmailbox -z -m user21@domain.com emptyFolder /Sent
